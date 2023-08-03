@@ -1,5 +1,5 @@
 # matrix-riddle
-个人首个游戏不完全样品
+personal first game demo
 <font size=3>
 
 ## 说明

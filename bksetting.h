@@ -1,15 +1,15 @@
 #pragma once
-#define WINDOW_HEIGHT 750 //´°¿Ú¸ß¶È
+#define WINDOW_HEIGHT 750 //çª—å£é«˜åº¦
 
-#define WINDOW_WIDTH  680 //´°¿Ú¿í¶È
+#define WINDOW_WIDTH  680 //çª—å£å®½åº¦
 
-#define HEIGHT_UNIT   150 //µ¥Î»¸ß¶È
+#define HEIGHT_UNIT   150 //å•ä½é«˜åº¦
 
-#define WIDTH_UNIT    170   //µ¥Î»¿í¶È
+#define WIDTH_UNIT    170   //å•ä½å®½åº¦
 
-#define FONT_SIZE     48    //±êÌâ×ÖÌå´óĞ¡
+#define FONT_SIZE     48    //æ ‡é¢˜å­—ä½“å¤§å°
 
-#define FONT_SPACE  (HEIGHT_UNIT - FONT_SIZE) / 2   //±êÌâÔÚyÖá·½ÏòÆğµã
+#define FONT_SPACE  (HEIGHT_UNIT - FONT_SIZE) / 2   //æ ‡é¢˜åœ¨yè½´æ–¹å‘èµ·ç‚¹
 
-void bkcreate();
-void bkdrawing();//¿ò¼Ü¡¢±êÌâ»æÖÆ
+void bkcreate();//åˆ›å»ºçª—å£
+void bkdrawing();//æ¡†æ¶ã€æ ‡é¢˜ç»˜åˆ¶
